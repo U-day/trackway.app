@@ -10,16 +10,16 @@ body {
 }
 .title {
   position: absolute;
-  top: 16px;
-  left: 16px;
-  font-size: 4em;
+  top: 5vh;
+  left: 5vh;
+  font-size: 2em;
 }
 .copy {
   position: absolute;
   top: 85vh;
-  left: 16px;
+  left: 5vh;
   text-shadow: 1px 1px #cccccc;
-  font-size: 2em;
+  font-size: 1em;
 }
 .wrapper {
   display: flex;
