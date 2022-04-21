@@ -10,6 +10,7 @@ body {
 }
 .title {
   position: absolute;
+  margin: 0px;
   top: 5vh;
   left: 5vh;
   font-size: 2em;
