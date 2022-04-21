@@ -10,11 +10,13 @@ body {
 }
 .title {
   position: absolute;
-  margin: 0px;
   top: 5vh;
   left: 5vh;
   font-size: 1em;
 }
+.title h2 {
+  margin: 0px;  
+}  
 .copy {
   position: absolute;
   top: 85vh;
